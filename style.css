@@ -1,0 +1,20 @@
+#submitButton
+{
+    background-color: #ff0fff;
+	color: #333;
+	font-family: 'Courier New', Courier, monospace, sans-serif;
+}
+#submitButton:hover{
+    background-color: rebeccapurple;
+}
+#nameInput
+{
+    background-color: #ff0f0f;
+	color: #333;
+	font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif, sans-serif;
+    font-size: large;
+}
+#mm
+{
+    display: grid;
+}
